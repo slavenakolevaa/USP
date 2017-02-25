@@ -8,7 +8,7 @@ public class Greeting {
 	}
 	
 	public void greetEnglish(){
-		System.out.println("Hello");
+		System.out.println("Hello!!");
 	}
 
 }
