@@ -6,6 +6,7 @@ public class Greeting {
 		Greeting gr = new Greeting();
 		gr.greetEnglish();
 		gr.greetItalian();
+		gr.greetFrench();
 	}
 	
 	public void greetEnglish(){
@@ -14,5 +15,8 @@ public class Greeting {
 
 	public void greetItalian() {
 		System.out.println("Ciao!!");
+	}
+	public void greetFrench() {
+		System.out.println("Bonjour!!");
 	}
 }
